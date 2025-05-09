@@ -1,0 +1,208 @@
+Skill:
+  Name: Zwroty
+  Id: 21
+
+New words: []
+
+Phrases:
+
+  - Phrase: Jasne!
+    Translation: Of course!
+    
+  - Phrase: Dzień dobry!
+    Translation: Good morning!
+    Alternative translations:
+      - Good day!
+ - Phrase: Dzień dobry, ja jestem [Jan].
+    Alternative versions:
+      - Dzień dobry, jestem [Jan].
+ Translation: Good morning, I am [Jan].
+
+  - Phrase: Ja mam na imię [Piotr]
+    Alternative versions:
+      - Mam na imię [Piotr]
+    Translation: My name is [Piotr]
+    Alternative translations:
+      - I am called [Piotr]
+      - I'm called [Piotr]
+
+  - Phrase: Co słychać?
+ Translation: How are you?
+
+  - Phrase: Co tam?
+    Alternative versions:
+      - Co u ciebie?
+ Translation: What's up?
+
+  - Phrase: Miło cię poznać
+    Translation: Nice to meet you
+    Alternative translations:
+      - Nice meeting you
+
+  - Phrase: Do zobaczenia później!
+ Translation: See you later!
+    Alternative translations:
+      - See you soon!
+
+  - Phrase: Jak masz na imię?
+ Translation: What's your name?
+    Alternative translations:
+      - What is your name?
+ - Phrase: Jak się pan/pani ma?
+    Translation: How are you? (formal version)
+  
+  - Phrase: Jak się masz?
+ Translation: How are you? (friendly version)
+  
+  - Phrase: A ty?
+    Translation: And you?
+ (friendly version)
+  
+  - Phrase: Skąd pan/pani jest?
+    Translation: Where are you from?
+ (formal version)
+  
+  - Phrase: Skąd jesteś?
+    Translation: Where are you from?
+ (friendly version)
+
+  - Phrase: Jestem z...
+    Translation: I am from...
+
+  - Phrase: Nie ma za co
+    Translation: Nothing to it
+
+  - Phrase: Przepraszam
+    Translation: I'm sorry
+
+  - Phrase: Igualmente
+    Translation: Likewise
+
+  - Phrase: Con permiso
+    Translation: Excuse me (need to get through)
+
+  - Phrase: Perdón
+    Translation: Excuse me (accident)
+
+  - Phrase: Hasta mañana
+    Translation: Until tomorrow
+
+  - Phrase: Tengo que irme
+    Translation: I've gotta go
+
+  - 
+ Phrase: Estoy bien, gracias
+    Translation: I am well, thanks
+  
+  - Phrase: ¡Buenas tardes!
+ Translation: Good afternoon!
+    Alternative translations:
+      - Good evening!
+
+  - Phrase: ¡Buenas noches, [Jan]!
+ Translation: Good night, [Jan]!
+
+Mini-dictionary:
+  English:
+    - morning:
+      - ranek
+    - of:
+      - z
+      - od
+      - dla
+    - course:
+      - kurs
+      - danie
+    - my:
+      - mój
+      - moja
+    - name: imię
+    - what's:
+      - co
+      - co jest
+    - up:
+      - w górę
+      - podniesiony
+    - nice:
+      - miły
+      - ładny
+    - meet:
+      - spotykać
+      - poznać
+    - see:
+      - widzieć
+      - patrzeć
+    - later:
+      - później
+      - potem
+    - afternoon: popołudnie
+    - night: noc
+    - formal: formalny
+    - version: wersja
+    - friendly: przyjazny
+    - where: gdzie
+    - from: z
+    - nothing: nic
+    - i'm: ja jestem
+    - i've: ja mam
+    - gotta: muszę
+    - sorry: 
+      - przepraszam
+      - przykro mi
+    - excuse:
+      - przepraszam
+    - me: ja
+    - need: potrzebować
+    - get: dostać
+    - through: przez
+    - until: do
+   
+  - tomorrow: jutro
+    - thanks: dzięki
+
+  Polish:
+    - dobry: good
+    - dzień: day
+    - ranek: morning
+    - z: of/from
+    - od: of/from
+    - dla: of
+    - kurs: course
+    - danie: course
+    - mój: my
+    - moja: my
+    - imię: name
+    - co: what
+    - co jest: what's
+    - w górę: up
+    - podniesiony: up
+    - miły: nice
+    - ładny: nice
+    - spotykać: meet
+    - poznać: meet
+    - widzieć: see
+    - patrzeć: see
+    - później: later
+    - potem: later
+    - popołudnie: afternoon
+    - noc: night
+    - formalny: formal
+    - wersja: version
+    - przyjazny: friendly
+    - gdzie: where
+    - nic: nothing
+    - ja jestem: I'm
+    - ja mam: I've
+    - muszę: gotta
+    - przepraszam: sorry/excuse me
+    - przykro mi: sorry
+    - usprawiedliwienie: excuse
+    - ja: me
+    - potrzebować: need
+    - dostać: get
+    - przez: through
+    - do: until
+    - jutro: tomorrow
+    - dzięki: thanks
+    - noc: night
+    - wieczór: evening

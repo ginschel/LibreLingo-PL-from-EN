@@ -1,0 +1,48 @@
+# Liczby w Polskim
+
+Liczby są ważne w wielu rzeczach!
+_Numbers are important for many things!_
+
+Kiedy mówisz ile lub ile ich jest, powszechne jest używane słowo '_Jest_'.
+_When stating how much or how many, it is common to use the word '_Hay_'. _Hay_ means 'There is / There are'_
+
+Na przykład:
+
+Jest dwadzieścia książek.
+_There are twenty books._
+
+## ⚠️ Wyjątek! ⚠️
+
+Na przykład:
+
+Jedna dziewczyna
+dwie dziewczyny
+pięć dziewczyn
+
+## Wszystkie liczby
+
+- zero
+- jeden / jedna / jedno
+- dwa / dwie
+- trzy
+- cztery
+- pięć
+- sześć
+- siedem
+- osiem
+- dziewięć
+- dziesięć
+
+- sto jeden
+- sto dwa
+
+- dwieście
+- trzysta
+- czterysta
+- pięćset
+- sześćset
+- siedemset
+- osiemset
+- dziewięćset
+
+- tysiąc

@@ -1,0 +1,194 @@
+Skill:
+  Name: Powitania
+  Id: 20
+
+New words: []
+
+Phrases:
+  - Phrase: Dzień dobry
+    Translation: Good morning
+
+  - Phrase: Dzień dobry, ja jestem [Imię].
+    Alternative versions:
+      - Dzień dobry, jestem [Imię].
+    Translation: Good morning, I am Cecilia.
+
+  - Phrase: Jak się masz?
+    Translation: How are you?
+    Alternative versions:
+      - Co słychać?
+  
+  - Phrase: Co tam?
+    Translation: What's up?
+
+  - Phrase: Miło cię poznać
+    Translation: Nice to meet you
+
+  - Phrase: Do zobaczenia później!
+    Translation: See you later!
+    Alternative translations:
+      - See you soon!
+
+  - Phrase: Jak masz na imię?
+    Translation: What's your name?
+    Alternative translations:
+      - What is your name?
+
+  - Phrase: Jak się pan/pani ma?
+    Translation: How are you? (formal version)
+  
+  - Phrase: Jak się masz?
+    Translation: How are you? (friendly version)
+  
+  - Phrase: A ty?
+    Translation: And you? (friendly version)
+  
+  - Phrase: Skąd pan/pani jest?
+    Translation: Where are you from? (formal version)
+  
+  - Phrase: Skąd jesteś?
+    Translation: Where are you from? (friendly version)
+
+  - Phrase: Jestem z...
+    Translation: I am from...
+
+  - Phrase: Nie ma za co
+    Translation: Nothing to it
+
+  - Phrase: Przepraszam
+    Translation: I'm sorry
+
+  - Phrase: Podobnie
+    Translation: Likewise
+
+  - Phrase: Przepraszam (chcę przejść)
+    Translation: Excuse me (need to get through)
+
+  - Phrase: Przepraszam (wpadłem na ciebie)
+    Translation: Excuse me (accident)
+
+  - Phrase: Do jutra
+    Translation: Until tomorrow
+
+  - Phrase: Muszę iść
+    Translation: I've gotta go
+
+  - Phrase: Mam się dobrze, dziękuję
+    Translation: I am well, thanks
+  
+  - Phrase: Dobry wieczór!
+    Translation: Good afternoon!
+    Alternative translations:
+      - Good evening!
+
+  - Phrase: Dobranoc, [Imię]!
+    Translation: Good night, José!
+
+  - Phrase: Jasne!
+    Translation: Of course!
+
+Mini-dictionary:
+  English:
+    - morning:
+      - ranek
+    - of:
+      - z
+      - od
+      - dla
+    - course:
+      - kurs
+      - danie
+    - my:
+      - mój
+      - moja
+    - name: imię
+    - what's:
+      - co
+      - co jest
+    - up:
+      - w górę
+      - podniesiony
+    - nice:
+      - miły
+      - ładny
+    - meet:
+      - spotykać
+      - poznać
+    - see:
+      - widzieć
+      - patrzeć
+    - later:
+      - później
+      - potem
+    - afternoon: popołudnie
+    - night: noc
+    - formal: formalny
+    - version: wersja
+    - friendly: przyjazny
+    - where: gdzie
+    - from: z
+    - nothing: nic
+    - i'm: ja jestem
+    - i've: ja mam
+    - gotta: muszę
+    - sorry:
+      - przepraszam
+      - przykro mi
+    - excuse:
+      - przepraszam
+      - usprawiedliwienie
+    - me: ja
+    - need: potrzebować
+    - get: dostać
+    - through: przez
+    - until: do
+    - tomorrow: jutro
+    - thanks: dzięki
+    - day: dzień
+    - evening: wieczór
+  Polish:
+    - dzień: day
+    - dobry: good
+    - ranek: morning
+    - z: of/from
+    - od: of/from
+    - dla: of
+    - kurs: course
+    - danie: course
+    - mój: my
+    - moja: my
+    - imię: name
+    - co: what
+    - co jest: what's
+    - w górę: up
+    - podniesiony: up
+    - miły: nice
+    - ładny: nice
+    - spotykać: meet
+    - poznać: meet
+    - widzieć: see
+    - patrzeć: see
+    - później: later
+    - potem: later
+    - popołudnie: afternoon
+    - noc: night
+    - formalny: formal
+    - wersja: version
+    - przyjazny: friendly
+    - gdzie: where
+    - nic: nothing
+    - ja jestem: I'm
+    - ja mam: I've
+    - muszę: gotta
+    - przepraszam: sorry/excuse me
+    - przykro mi: sorry
+    - usprawiedliwienie: excuse
+    - ja: me
+    - potrzebować: need
+    - dostać: get
+    - przez: through
+    - do: until
+    - jutro: tomorrow
+    - dzięki: thanks
+    - noc: night
+    - wieczór: evening

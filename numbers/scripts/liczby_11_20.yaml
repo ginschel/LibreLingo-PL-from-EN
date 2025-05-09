@@ -1,0 +1,33 @@
+Skill:
+  Name: Liczby (11 - 20)
+  Id: 19
+
+New words: []
+
+Phrases:
+  - Phrase: Mam jedenaście jabłek.
+    Translation: I have eleven apples.
+  - Phrase: On ma dwanaście pomarańczy.
+    Translation: He has twelve oranges.
+  - Phrase: Widzę trzynaście bananów.
+    Translation: I see thirteen bananas.
+  - Phrase: Ona je czternaście gruszek.
+    Translation: She eats fourteen pears.
+  - Phrase: Piętnaście jabłek jest czerwonych.
+    Translation: Fifteen apples are red.
+  - Phrase: Szesnaście pomarańczy jest słodkich.
+    Translation: Sixteen oranges are sweet.
+  - Phrase: Siedemnaście bananów jest żółtych.
+    Translation: Seventeen bananas are yellow.
+
+Mini-dictionary:
+  English -> Polski:
+    apples: jabłka
+    oranges: pomarańcze
+    bananas: banany
+    pears: gruszki
+  Polski -> English:
+    jabłka: apples
+    pomarańcze: oranges
+    banany: bananas
+    gruszki: pears

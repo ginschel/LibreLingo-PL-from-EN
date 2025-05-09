@@ -1,0 +1,49 @@
+Skill:
+  Name: Opisz Siebie
+  Id: 18
+
+New words: []
+
+Phrases:
+  - Phrase: Cześć, mam na imię [Imię] i mam 10 lat.
+    Translation: Hello, my name is [Name] and I am 10 years old.
+
+  - Phrase: W mojej rodzinie są cztery osoby.
+    Translation: In my family there are four people.
+
+  - Phrase: Mam mamę i tatę oraz dwie siostry/dwóch braci.
+    Translation: I have my mom and dad and two sisters/brothers.
+
+  - Phrase: Mój przyjaciel, [Imię], nie ma wielu osób w swojej rodzinie.
+    Translation: My friend, [Name], doesn't have many people in his family.
+
+  - Phrase: W jego rodzinie są tylko dwie osoby.
+    Translation: In his family, there are only two people.
+
+  - Phrase: W mojej rodzinie nie ma psów, ale w rodzinie [Imię] jest jeden.
+    Translation: In my family there are no dogs, but in [Name]'s family there is one.
+
+Mini-dictionary:
+  English:
+    - hello:
+      - cześć
+    - my:
+      - mój
+      - moja
+    - name: imię
+    - family: rodzina
+    - people:
+      - osoby
+      - ludzie
+    - friend: przyjaciel
+    - dog: pies
+  Polish:
+    - cześć: hello
+    - imię: name
+    - mój: my
+    - moja: my
+    - rodzina: family
+    - osoby: people
+    - ludzie: people
+    - przyjaciel: friend
+    - pies: dog

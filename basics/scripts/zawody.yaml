@@ -1,0 +1,51 @@
+Skill:
+  Name: Zawody
+  Id: 25
+
+New words: []
+
+Phrases:
+  - Phrase: Lekarz pracuje w szpitalu
+    Translation: The doctor works in a hospital
+
+  - Phrase: Strażak gasi pożar
+    Translation: The firefighter extinguishes the fire
+
+  - Phrase: Nauczyciel uczy dzieci
+    Translation: The teacher teaches children
+
+  - Phrase: Rolnik pracuje na polu
+    Translation: The farmer works in the field
+
+  - Phrase: Oni są nauczycielami
+    Translation: They are teachers
+
+  - Phrase: Czy ten lekarz jest dobry?
+    Translation: Is this doctor good?
+
+Mini-dictionary:
+  English:
+    - doctor: lekarz
+    - firefighter: strażak
+    - teacher: nauczyciel
+    - farmer: rolnik
+    - works: pracuje
+    - hospital: szpital
+    - fire: pożar
+    - teaches: uczy
+    - children: dzieci
+    - field: pole
+    - good: dobry
+
+  Polish:
+    - lekarz: doctor
+    - strażak: firefighter
+    - nauczyciel: teacher
+    - rolnik: farmer
+    - pracuje: works
+    - szpital: hospital
+    - pożar: fire
+    - uczy: teaches
+    - dzieci: children
+    - pole: field
+    - dobry: good

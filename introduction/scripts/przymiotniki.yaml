@@ -1,0 +1,165 @@
+Skill:
+  Name: Przymiotniki
+  Id: 15
+
+New words: []
+
+Phrases:
+  - Phrase: [Wiktoria] jest wysoka
+    Translation: Cecilia is tall
+
+  - Phrase: [Kacper] jest wysoki
+    Translation: Max is tall
+
+  - Phrase: Ja jestem stary
+    Translation: I am old
+
+  - Phrase: Ona jest stara
+    Alternative versions:
+      - Jest stara
+      - Jest stary
+    Translation: She is old
+
+  - Phrase: On jest stary
+    Alternative versions:
+    
+   - Jest stara
+      - Jest stary
+    Translation: He is old
+
+  - Phrase: Ja jestem duży
+    Alternative versions:
+      - Jestem duży
+    Translation: I am big
+    Alternative translations:
+      - I'm big
+
+  - Phrase: Ona jest duża
+    Alternative versions:
+      - Es grande
+    Translation: She's big
+    Alternative translations:
+      - She is big
+
+  - 
+ Phrase: My jesteśmy duzi
+    Alternative versions:
+      - Jesteśmy duzi
+    Translation: We're big
+    Alternative translations:
+      - We are big
+
+  - Phrase: One są duże
+    Alternative versions:
+      - Są duże
+    Translation: They are big
+
+  - Phrase: Oni są mali
+    Alternative versions:
+      - Są mali
+    Translation: They're small
+    Alternative translations:
+      - They are small
+
+  - Phrase: Koty są małe
+    Translation: The cats are small
+
+  - Phrase: Starzy jedzą mięso
+    Translation: The old ones eat meat
+    Alternative translations:
+      - The old eat meat
+
+  - Phrase: [Kacper] nie jest niski
+    Translation: Max is not short
+    Alternative translations:
+      - Max isn't short
+
+  - Phrase: Pies jest mały i stary
+    Translation: The dog is small and old
+    Alternative translations:
+      - The dog's small and old
+
+  - Phrase: Park jest mały
+    Translation: The park is small
+    Alternative translations:
+      - The park's small
+
+  - Phrase: Park jest duży
+    Translation: The park is big
+    Alternative translations:
+      - The park's big
+
+  - Phrase: Mysz jest mała
+    Translation: The mouse is small
+    Alternative translations:
+      - The mouse's small
+  
+ - Phrase: Słonie są duże, myszy są małe
+    Translation: The elephants are big, the mice are small
+    Alternative translations:
+      - Elephants are big, mice are small
+
+  - Phrase: Duże myszy pracują
+    Translation: The big mice work
+
+Mini-dictionary:
+  English:
+    - tall:
+      - wysoki
+      - wysoka
+      - wysokie
+      - wysocy
+    - old:
+      - stary
+      - stara
+      - stare
+      - starzy
+    - she's:
+      - ona jest
+      - ona ma
+    - we're:
+      - my jesteśmy
+      - my mamy
+    - they're:
+      - oni są
+      - one są
+    - ones:
+      - jedni
+      - osoby
+    - meat: mięso
+    - not: "nie"
+    - short:
+      - niski
+      - niska
+      - krótki
+      - krótka
+    - elephants: słonie
+    - mice: myszy
+    - work:
+      - pracują
+      - praca
+
+  Polish:
+    - wysoka: tall
+    - wysoki: tall
+    - stara: old
+    - stary: old
+    - małe: small
+    - starzy:
+      - old
+      - old ones
+    - jedzą:
+      - eat
+      - they eat
+      - you eat
+    - mięso: meat
+    - "nie": "not"
+    - niski:
+      - short
+      - low
+      - below
+    - słonie: elephants
+    - myszy: mice
+    - pracują:
+      - they work
+      - you work

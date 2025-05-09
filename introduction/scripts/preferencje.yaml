@@ -1,0 +1,94 @@
+Skill:
+  Name: Preferencje
+  Id: 19
+
+New words: []
+
+Phrases:
+  - Phrase: Czy lubisz kawę?
+    Alternative versions:
+      - Czy ty lubisz kawę?
+    Translation: Do you like coffee?
+
+  - Phrase: Lubię pierogi
+    Alternative versions:
+      - Ja lubię pierogi
+    Translation: I like pasta
+
+  - Phrase: Lubię piwo
+    Alternative versions:
+      - Ja lubię piwo
+    Translation: I like beer
+
+  - Phrase: Nie lubię wina
+    Alternative versions:
+      - Ja nie lubię wina
+    Translation: I don't like wine
+
+  - Phrase: On nie je mięsa
+    Alternative versions:
+      - Nie je mięsa
+    Translation: He doesn't eat meat
+
+  - Phrase: Ja piję wino
+    Alternative versions:
+      - Piję wino
+    Translation: I drink wine
+
+  - Phrase: [Anna] nie je pierogów
+    Translation: Cecilia doesn't eat pasta
+
+  - Phrase: Piwo, proszę!
+    Translation: A beer please!
+
+   - Phrase: Czy lubisz wino?
+    Translation: Do you like wine?
+
+  - Phrase: Czy nie lubisz chleba?
+    Translation: Don't you like bread?
+    Alternative translations:
+      - You don't like bread?
+
+Mini-dictionary:
+  English:
+    - do:
+      - robić
+      - robię
+      - robisz
+      - robimy
+    - don't: "nie"
+    - doesn't: "nie"
+    - a:
+      - jeden
+      - jedna
+      - jedno
+    - the:
+      - ten
+      - ta
+      - to
+    - coffee: kawa
+    - wine: wino
+    - beer: piwo
+    - pasta: pierogi
+    - meat: mięso
+    - bread: chleb
+    - please: proszę
+  Polish:
+    - robić: do
+    - robię: do
+    - robisz: do
+    - robimy: do
+    - nie: don't/doesn't
+    - jeden: a
+    - jedna: a
+    - jedno: a
+    - ten: the
+    - ta: the
+    - to: the
+    - kawa: coffee
+    - wino: wine
+    - piwo: beer
+    - pierogi: pasta
+    - mięso: meat
+    - chleb: bread
+    - proszę: please

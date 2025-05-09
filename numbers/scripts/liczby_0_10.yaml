@@ -1,0 +1,33 @@
+Skill:
+  Name: Liczby (0 - 10)
+  Id: 18
+
+New words: []
+
+Phrases:
+  - Phrase: Mam jeden stół.
+    Translation: I have one table.
+  - Phrase: Widzę dwa krzesła.
+    Translation: I see two chairs.
+  - Phrase: Są trzy okna w pokoju.
+    Translation: There are three windows in the room.
+  - Phrase: On ma cztery drzwi.
+    Translation: He has four doors.
+  - Phrase: Pięć stołów jest dużych.
+    Translation: Five tables are big.
+  - Phrase: Sześć krzeseł jest czerwonych.
+    Translation: Six chairs are red.
+  - Phrase: Siedem okien jest otwartych.
+    Translation: Seven windows are open.
+
+Mini-dictionary:
+  English -> Polski:
+    chairs: krzesła
+    tables: stoły
+    windows: okna
+    doors: drzwi
+  Polski -> English:
+    krzesła: chairs
+    stoły: tables
+    okna: windows
+    drzwi: doors

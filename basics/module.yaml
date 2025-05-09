@@ -1,0 +1,13 @@
+Module:
+  Name: "Basics"
+
+Skills:
+  - liczby.yaml
+  - zwierzeta.yaml
+  - jedzenie.yaml
+  - ubrania.yaml
+  - natura.yaml
+  - czasowniki.yaml
+  - liczba_mnoga.yaml
+  - czasowniki_mnoga.yaml
+  - zawody.yaml

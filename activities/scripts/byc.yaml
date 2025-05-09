@@ -1,0 +1,66 @@
+Skill:
+  Name: Być
+  Id: 30
+
+New words: []
+
+Phrases:
+  - Phrase: Jestem studentem
+    Translation: I am a student
+
+  - Phrase: Jestem w szkole
+    Translation: I am at school
+    Alternative translations:
+      - I am in school
+
+  - Phrase: Ona jest pielęgniarką
+    Translation: She is a nurse
+
+  - Phrase: Ona jest chora
+    Translation: She is ill
+    Alternative translations:
+      - She is sick
+
+  - Phrase: Jesteśmy w mieście
+    Translation: We are in the city
+
+  - Phrase: Kot jest czysty
+    Translation: The cat is clean
+
+  - Phrase: Oni są gotowi
+    Translation: They are ready
+
+  - Phrase: Oni są mądrzy
+    Translation: They are smart
+
+  - Phrase: Czy jesteście lekarzami?
+    Translation: Are you doctors?
+
+  - Phrase: Czy jesteście szczęśliwi?
+    Translation: Are you happy?
+    Alternative translations:
+      - Are you content?
+      - Are you satisfied?
+
+Mini-dictionary:
+  English:
+    - student: student
+    - nurse: pielęgniarka
+    - city: miasto
+    - doctor: lekarz
+    - clean: czysty
+    - ill: chory
+    - ready: gotowy
+    - smart: mądry
+    - happy: szczęśliwy
+
+  Polish:
+    - student: student
+    - pielęgniarka: nurse
+    - miasto: city
+    - lekarz: doctor
+    - czysty: clean
+    - chory: ill
+    - gotowy: ready
+    - mądry: smart
+    - szczęśliwy: happy

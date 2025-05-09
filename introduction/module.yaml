@@ -2,4 +2,8 @@ Module:
   Name: "Introduction"
 
 Skills:
-  - greetings.yaml
+  - powitania.yaml
+  - opisz-siebie.yaml
+  - zwroty.yaml
+  - przymiotniki.yaml
+  - preferencje.yaml

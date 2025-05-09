@@ -1,0 +1,33 @@
+Skill:
+  Name: Liczby (do stu)
+  Id: 20
+
+New words: []
+
+Phrases:
+  - Phrase: Widzę dziesięć samochodów.
+    Translation: I see ten cars.
+  - Phrase: Jest dwadzieścia autobusów na ulicy.
+    Translation: There are twenty buses on the street.
+  - Phrase: Trzydzieści tramwajów jedzie szybko.
+    Translation: Thirty trams go fast.
+  - Phrase: Czterdzieści rowerów jest zaparkowanych.
+    Translation: Forty bikes are parked.
+  - Phrase: Pięćdziesiąt samochodów jest nowych.
+    Translation: Fifty cars are new.
+  - Phrase: Sześćdziesiąt autobusów jest pełnych.
+    Translation: Sixty buses are full.
+  - Phrase: Siedemdziesiąt tramwajów jest zielonych.
+    Translation: Seventy trams are green.
+
+Mini-dictionary:
+  English -> Polski:
+    cars: samochody
+    buses: autobusy
+    trams: tramwaje
+    bikes: rowery
+  Polski -> English:
+    samochody: cars
+    autobusy: buses
+    tramwaje: trams
+    rowery: bikes

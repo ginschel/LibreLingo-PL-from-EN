@@ -1,0 +1,44 @@
+Skill:
+  Name: Liczba mnoga
+  Id: 23
+
+New words: []
+
+Phrases:
+  - Phrase: Psy są duże
+    Translation: The dogs are big
+
+  - Phrase: Koty śpią na kanapie
+    Translation: The cats sleep on the couch
+
+  - Phrase: Uczniowie czytają książki
+    Translation: The students are reading books
+
+  - Phrase: Te domy są stare
+    Translation: These houses are old
+
+  - Phrase: Dzieci bawią się razem
+    Translation: Children play together
+
+Mini-dictionary:
+  English:
+    - dogs: psy
+    - cats: koty
+    - students: uczniowie
+    - houses: domy
+    - big: duże
+    - old: stare
+    - read: czytać
+    - play: bawić się
+    - together: razem
+
+  Polish:
+    - psy: dogs
+    - koty: cats
+    - uczniowie: students
+    - domy: houses
+    - duże: big
+    - stare: old
+    - czytają: read
+    - bawią się: play
+    - razem: together

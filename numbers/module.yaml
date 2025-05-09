@@ -1,0 +1,8 @@
+Module:
+  Name: "Numbers"
+
+Skills:
+  - liczby_0_10.yaml
+  - liczby_11_20.yaml
+  - liczby_do_sta.yaml
+  - liczby_setki.yaml
